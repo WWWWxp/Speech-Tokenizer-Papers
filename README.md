@@ -9,7 +9,6 @@ This repository  collect papers related to speech tokenizer.
 
 
 - [[arXiv](https://arxiv.org/pdf/2409.05377)] [[code](https://github.com/Aria-K-Alethia/BigCodec)] **BigCodec**: Pushing the Limits of Low-Bitrate  Neural Speech Codec
-
 - [[arXiv](https://arxiv.org/pdf/2408.17175)] [[code](https://github.com/zhenye234/xcodec)] Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model
 - [[Interspeech](https://www.isca-archive.org/interspeech_2024/shechtman24_interspeech.html)] Low Bitrate High-Quality RVQGAN-based Discrete Speech Tokenizer
 
@@ -24,6 +23,9 @@ This repository  collect papers related to speech tokenizer.
 - [[arXiv](https://arxiv.org/abs/2408.16532)] [[code](https://github.com/jishengpeng/WavTokenizer)] **WavTokenizer**: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling
 - [[arXiv](https://arxiv.org/pdf/2402.12208)] [[code](https://github.com/jishengpeng/languagecodec)] **Language-Codec**: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - [[arXiv](https://arxiv.org/pdf/2406.07422)] [[demo](https://kkksuper.github.io/Single-Codec/)] **Single-Codec**: Single-Codebook Speech Codec towards High-Performance Speech Generation
+
+
+
 ### 2023
 
 
@@ -35,6 +37,7 @@ This repository  collect papers related to speech tokenizer.
 - [[NIPS](https://arxiv.org/pdf/2306.06546)] [[code](https://github.com/descriptinc/descript-audio-codec)] **DAC**: High-Fidelity Audio Compression with Improved RVQGAN 
 - [[arXiv](https://arxiv.org/pdf/2306.00814.pdf)] [[code](https://github.com/gemelo-ai/vocos)] **Vocos**: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis
 - [[arXiv](https://arxiv.org/pdf/2305.02765.pdf)] [[code](https://github.com/yangdongchao/AcademiCodec)] **AcademiCodec**: An Open Source Audio Codec Model for Academic Research
+- [[ICASSP](https://arxiv.org/abs/2310.00014)] [[code](https://github.com/y-ren16/TiCodec)] **TiCodec**: Fewer-token Neural Speech Codec with Time-invariant Codes
 
 
 ### 2022
