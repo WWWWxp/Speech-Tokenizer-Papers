@@ -21,7 +21,8 @@ This repository  collect papers related to speech tokenizer.
 
 - [[arXiv](https://arxiv.org/pdf/2409.12117)] Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference
 - [[arXiv](https://arxiv.org/pdf/2409.12717)] **NDVQ**: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization
-
+- [[arXiv](https://arxiv.org/abs/2408.16532)] [[code](https://github.com/jishengpeng/WavTokenizer)] **WavTokenizer**: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling
+- [[arXiv](https://arxiv.org/pdf/2402.12208)] [[code](https://github.com/jishengpeng/languagecodec)] Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 ### 2023
 
 
