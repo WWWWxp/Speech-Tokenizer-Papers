@@ -23,6 +23,8 @@ This repository  collect papers related to speech tokenizer.
 - [[arXiv](https://arxiv.org/pdf/2409.12717)] **NDVQ**: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization
 - [[arXiv](https://arxiv.org/abs/2408.16532)] [[code](https://github.com/jishengpeng/WavTokenizer)] **WavTokenizer**: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling
 - [[arXiv](https://arxiv.org/pdf/2402.12208)] [[code](https://github.com/jishengpeng/languagecodec)] **Language-Codec**: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
+
+
 ### 2023
 
 
@@ -31,7 +33,10 @@ This repository  collect papers related to speech tokenizer.
 - [[arXiv](https://arxiv.org/abs/2308.16692)] [[code](https://github.com/ZhangXInFD/SpeechTokenizer/)] **SpeechTokenizer**: Unified Speech Tokenizer for Speech Large Language Models
 
 - [[arXiv](https://arxiv.org/abs/2305.02765)] [[code](https://github.com/yangdongchao/AcademiCodec)] **HiFi-Codec**: Group-residual Vector quantization for High Fidelity Audio Codec
-- [[NIPS](https://arxiv.org/pdf/2306.06546)] [[code](https://github.com/descriptinc/descript-audio-codec)] High-Fidelity Audio Compression with Improved RVQGAN (**DAC**) 
+- [[NIPS](https://arxiv.org/pdf/2306.06546)] [[code](https://github.com/descriptinc/descript-audio-codec)] High-Fidelity Audio Compression with Improved RVQGAN (**DAC**)
+- [[arXiv](https://arxiv.org/pdf/2306.00814.pdf)] [[code](https://github.com/gemelo-ai/vocos)] **Vocos**: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis
+- [[arXiv](https://arxiv.org/pdf/2305.02765.pdf)] [[code](https://github.com/yangdongchao/AcademiCodec)] **AcademiCodec**: An Open Source Audio Codec Model for Academic Research
+
 
 ### 2022
 - [[arXiv](https://arxiv.org/abs/2210.13438)] [[code](https://github.com/facebookresearch/encodec)] High Fidelity Neural Audio Compression
