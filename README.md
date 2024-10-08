@@ -13,9 +13,9 @@ This repository  collect papers related to speech tokenizer.
 - [[arXiv](https://arxiv.org/pdf/2408.17175)] [[code](https://github.com/zhenye234/xcodec)] Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model
 - [[Interspeech](https://www.isca-archive.org/interspeech_2024/shechtman24_interspeech.html)] Low Bitrate High-Quality RVQGAN-based Discrete Speech Tokenizer
 
-- [[arXiv](https://arxiv.org/pdf/2409.00933)] [[code](https://github.com/hhguo/SoCodec)] SOCODEC: A SEMANTIC-ORDERED MULTI-STREAM SPEECH CODEC FOR EFFICIENT LANGUAGE MODEL BASED TEXT-TO-SPEECH SYNTHESIS
+- [[arXiv](https://arxiv.org/pdf/2409.00933)] [[code](https://github.com/hhguo/SoCodec)] SoCodec: A Semantic-Ordered Multi-Stream Speech Codec for Efficient Language Model Based Text-to-Speech Synthesis
 
-- [[arXiv](https://arxiv.org/pdf/2309.07405)] [[code](https://github.com/modelscope/FunCodec)] FUNCODEC: A FUNDAMENTAL, REPRODUCIBLE AND INTEGRABLE OPEN-SOURCE TOOLKIT FOR NEURAL SPEECH CODEC
+- [[arXiv](https://arxiv.org/pdf/2309.07405)] [[code](https://github.com/modelscope/FunCodec)] FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec
 
 ### 2023
 
