@@ -11,7 +11,7 @@ This repository  collect papers related to speech tokenizer.
 - [[arXiv](https://arxiv.org/pdf/2409.05377)] [[code](https://github.com/Aria-K-Alethia/BigCodec)] BigCodec: Pushing the Limits of Low-Bitrate  Neural Speech Codec
 
 - [[arXiv](https://arxiv.org/pdf/2408.17175)] [[code](https://github.com/zhenye234/xcodec)] Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model
-- [[Interspeech](extension://pmikcdmaipmhfkojkadmmdjfjcfhfjfo/lib/pdfjs/web/viewer.html?file=https%3A%2F%2Fwww.isca-archive.org%2Finterspeech_2024%2Fshechtman24_interspeech.pdf%23%3A~%3Atext%3DLow%2520Bitrate%2520High-Quality%2520RVQGAN-based)] [[code]] Low Bitrate High-Quality RVQGAN-based Discrete Speech Tokenizer
+- [[Interspeech](extension://pmikcdmaipmhfkojkadmmdjfjcfhfjfo/lib/pdfjs/web/viewer.html?file=https%3A%2F%2Fwww.isca-archive.org%2Finterspeech_2024%2Fshechtman24_interspeech.pdf%23%3A~%3Atext%3DLow%2520Bitrate%2520High-Quality%2520RVQGAN-based)] Low Bitrate High-Quality RVQGAN-based Discrete Speech Tokenizer
 
 - [[arXiv](https://arxiv.org/pdf/2409.00933)] [[code](https://github.com/hhguo/SoCodec)] SOCODEC: A SEMANTIC-ORDERED MULTI-STREAM SPEECH CODEC FOR EFFICIENT LANGUAGE MODEL BASED TEXT-TO-SPEECH SYNTHESIS
 
