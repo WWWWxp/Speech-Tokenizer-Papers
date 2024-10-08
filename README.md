@@ -43,11 +43,11 @@ This repository  collect papers related to speech tokenizer.
 
 
 ### 2021
-- [[TASLP](https://ieeexplore.ieee.org/document/9625818)][[arXiv](https://arxiv.org/abs/2107.03312)][[demo](https://blog.research.google/2021/08/soundstream-end-to-end-neural-audio.html?m=1)] SoundStream: An End-to-End Neural Audio Codec
+- [[TASLP](https://ieeexplore.ieee.org/document/9625818)][[arXiv](https://arxiv.org/abs/2107.03312)][[demo](https://blog.research.google/2021/08/soundstream-end-to-end-neural-audio.html?m=1)] **SoundStream**: An End-to-End Neural Audio Codec
 - [[arXiv](https://arxiv.org/abs/2103.06089)] Variable-rate discrete representation learning
 - [[arXiv](https://arxiv.org/abs/2005.08392)][[code](https://github.com/iamyuanchung/VQ-APC)] Vector-Quantized Autoregressive Predictive Coding
 
 
 ### 2019
 - [[arXiv](https://arxiv.org/abs/1910.12729)][[demo](https://ttaoretw.github.io/SeqRQ-AE/demo.html)] Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning
-- [[arXiv](https://arxiv.org/abs/1910.05453)] vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
+- [[arXiv](https://arxiv.org/abs/1910.05453)] **vq-wav2vec**: Self-Supervised Learning of Discrete Speech Representations
