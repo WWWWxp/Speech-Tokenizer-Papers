@@ -33,7 +33,7 @@ This repository  collect papers related to speech tokenizer.
 - [[arXiv](https://arxiv.org/abs/2308.16692)] [[code](https://github.com/ZhangXInFD/SpeechTokenizer/)] **SpeechTokenizer**: Unified Speech Tokenizer for Speech Large Language Models
 
 - [[arXiv](https://arxiv.org/abs/2305.02765)] [[code](https://github.com/yangdongchao/AcademiCodec)] **HiFi-Codec**: Group-residual Vector quantization for High Fidelity Audio Codec
-- [[NIPS](https://arxiv.org/pdf/2306.06546)] [[code](https://github.com/descriptinc/descript-audio-codec)] High-Fidelity Audio Compression with Improved RVQGAN (**DAC**)
+- [[NIPS](https://arxiv.org/pdf/2306.06546)] [[code](https://github.com/descriptinc/descript-audio-codec)] **DAC**: High-Fidelity Audio Compression with Improved RVQGAN 
 - [[arXiv](https://arxiv.org/pdf/2306.00814.pdf)] [[code](https://github.com/gemelo-ai/vocos)] **Vocos**: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis
 - [[arXiv](https://arxiv.org/pdf/2305.02765.pdf)] [[code](https://github.com/yangdongchao/AcademiCodec)] **AcademiCodec**: An Open Source Audio Codec Model for Academic Research
 
