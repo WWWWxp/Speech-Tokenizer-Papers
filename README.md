@@ -20,7 +20,7 @@ This repository  collect papers related to speech tokenizer.
 - [[arXiv](https://arxiv.org/pdf/2409.01995)] [[demo](https://cantabile-kwok.github.io/vec2wav2/)] [[code](https://github.com/cantabile-kwok/vec2wav2.0)] **vec2wav 2.0**: Advancing Voice Conversion via Discrete Token Vocoders
 
 - [[arXiv](https://arxiv.org/pdf/2409.12117)] Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference
-- 
+- [[arXiv](https://arxiv.org/pdf/2409.12717)] **NDVQ**: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization
 
 ### 2023
 
