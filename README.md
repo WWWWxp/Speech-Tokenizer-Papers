@@ -17,6 +17,8 @@ This repository  collect papers related to speech tokenizer.
 
 - [[arXiv](https://arxiv.org/pdf/2309.07405)] [[code](https://github.com/modelscope/FunCodec)] FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec
 
+- [[arXiv](https://arxiv.org/pdf/2409.01995)] [[demo](https://cantabile-kwok.github.io/vec2wav2/)] [[code](https://github.com/cantabile-kwok/vec2wav2.0)] vec2wav 2.0: Advancing Voice Conversion via Discrete Token Vocoders
+
 ### 2023
 
 
