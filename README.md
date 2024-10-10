@@ -2,8 +2,8 @@
 This repository  collects papers related to Speech Tokenizer.
 
 ## Contents
-+ [[Search by Chronological Order](#jump1)
-+ [[Search by Method Category](#jump2)
++ [Search by Chronological Order](#jump1)
++ [Search by Method Category](#jump2)
 
 
 # Papers
