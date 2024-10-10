@@ -1,7 +1,7 @@
 # Speech-Tokenizer-Papers
 This repository  collects papers related to Speech Tokenizer.
 
-## Table of Contents
+## Contents
 + [[Search by Chronological Order](https://github.com/WWWWxp/Speech-Tokenizer-Papers)]
 + [[Search by Method Category](https://github.com/WWWWxp/Speech-Tokenizer-Papers/tree/Type-classification)]
 
