@@ -97,7 +97,7 @@ This repository  collects papers related to Speech Tokenizer.
 -  **SoCodec**: A Semantic-Ordered Multi-Stream Speech Codec for Efficient Language Model Based Text-to-Speech Synthesis [[arXiv](https://arxiv.org/pdf/2409.00933)] [[code](https://github.com/hhguo/SoCodec)]
 
 
-### Decoupling 
+### feature disentanglement 
 -  **FACodec**: Speech Codec with Attribute Factorization used for NaturalSpeech 3 [[arXiv](https://arxiv.org/pdf/2403.03100)] [[code](https://github.com/lifeiteng/naturalspeech3_facodec)]
 -  **SpeechTokenizer**: Unified Speech Tokenizer for Speech Large Language Models  [[arXiv](https://arxiv.org/abs/2308.16692)] [[code](https://github.com/ZhangXInFD/SpeechTokenizer/)]
 -  **TiCodec**: Fewer-token Neural Speech Codec with Time-invariant Codes [[ICASSP](https://arxiv.org/abs/2310.00014)] [[code](https://github.com/y-ren16/TiCodec)]
