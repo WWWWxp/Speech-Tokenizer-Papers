@@ -34,11 +34,8 @@ This repository  collects papers related to Speech Tokenizer.
 -  **APCodec**: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding [[TASLP](https://arxiv.org/abs/2402.10533)] [[code](https://github.com/YangAi520/APCodec)]
 -  **FACodec**: Speech Codec with Attribute Factorization used for NaturalSpeech 3 [[arXiv](https://arxiv.org/pdf/2403.03100)] [[code](https://github.com/lifeiteng/naturalspeech3_facodec)]
 - **SemantiCodec**: An Ultra Low Bitrate Semantic Audio Codec for General Sound [[arXiv](https://arxiv.org/abs/2405.00233)] [[code](https://github.com/haoheliu/SemantiCodec-inference)]
+
 ### 2023
-
-
--  **RepCodec**: A Speech Representation Codec for Speech Tokenization [[arXiv](https://arxiv.org/abs/2309.00169)] [[code](https://github.com/mct10/RepCodec)]
-
 -  **SpeechTokenizer**: Unified Speech Tokenizer for Speech Large Language Models  [[arXiv](https://arxiv.org/abs/2308.16692)] [[code](https://github.com/ZhangXInFD/SpeechTokenizer/)]
 
 -  **HiFi-Codec**: Group-residual Vector quantization for High Fidelity Audio Codec [[arXiv](https://arxiv.org/abs/2305.02765)] [[code](https://github.com/yangdongchao/AcademiCodec)]
