@@ -27,6 +27,7 @@ This repository  collect papers related to speech tokenizer.
 -  **PromptCodec**: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders [[arXiv](https://arxiv.org/pdf/2404.02702)]
 -  **HILCodec**: High-Fidelity and Lightweight Neural Audio Codec [[arXiv](https://arxiv.org/pdf/2405.04752)] [[code](https://github.com/aask1357/hilcodec)]
 -  **APCodec**: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding [[TASLP](https://arxiv.org/abs/2402.10533)] [[code](https://github.com/YangAi520/APCodec)]
+-  **FACodec**: Speech Codec with Attribute Factorization used for NaturalSpeech 3 [[arXiv](https://arxiv.org/pdf/2403.03100)] [[code](https://github.com/lifeiteng/naturalspeech3_facodec)]
 ### 2023
 
 
