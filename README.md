@@ -61,7 +61,7 @@ This repository  collects papers related to Speech Tokenizer.
 - Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning [[arXiv](https://arxiv.org/abs/1910.12729)][[demo](https://ttaoretw.github.io/SeqRQ-AE/demo.html)]
 - **vq-wav2vec**: Self-Supervised Learning of Discrete Speech Representations  [[arXiv](https://arxiv.org/abs/1910.05453)]
 
-
+--------------------------------------------------------------------------------------------------------------
 ## <span id="jump2">Search by Method Category</span>
 ### Speed/Compression
 
