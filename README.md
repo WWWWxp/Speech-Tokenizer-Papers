@@ -41,7 +41,6 @@ This repository  collects papers related to Speech Tokenizer.
 -  **HiFi-Codec**: Group-residual Vector quantization for High Fidelity Audio Codec [[arXiv](https://arxiv.org/abs/2305.02765)] [[code](https://github.com/yangdongchao/AcademiCodec)]
 -  **DAC**: High-Fidelity Audio Compression with Improved RVQGAN  [[NIPS](https://arxiv.org/pdf/2306.06546)] [[code](https://github.com/descriptinc/descript-audio-codec)]
 -  **Vocos**: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis [[arXiv](https://arxiv.org/pdf/2306.00814.pdf)] [[code](https://github.com/gemelo-ai/vocos)]
--  **AcademiCodec**: An Open Source Audio Codec Model for Academic Research [[arXiv](https://arxiv.org/pdf/2305.02765.pdf)] [[code](https://github.com/yangdongchao/AcademiCodec)]
 -  **TiCodec**: Fewer-token Neural Speech Codec with Time-invariant Codes [[ICASSP](https://arxiv.org/abs/2310.00014)] [[code](https://github.com/y-ren16/TiCodec)]
 - **AudioDec**: An Open-source Streaming High-fidelity Neural Audio Codec [[ICASSP](https://ieeexplore.ieee.org/document/10096509)] [[code](https://github.com/facebookresearch/AudioDec)]
 - **RepCodec**: A Speech Representation Codec for Speech Tokenization [[arXiv](https://arxiv.org/abs/2309.00169)] [[code](https://github.com/mct10/RepCodec)]
