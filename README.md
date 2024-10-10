@@ -28,6 +28,7 @@ This repository  collect papers related to speech tokenizer.
 -  **HILCodec**: High-Fidelity and Lightweight Neural Audio Codec [[arXiv](https://arxiv.org/pdf/2405.04752)] [[code](https://github.com/aask1357/hilcodec)]
 -  **APCodec**: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding [[TASLP](https://arxiv.org/abs/2402.10533)] [[code](https://github.com/YangAi520/APCodec)]
 -  **FACodec**: Speech Codec with Attribute Factorization used for NaturalSpeech 3 [[arXiv](https://arxiv.org/pdf/2403.03100)] [[code](https://github.com/lifeiteng/naturalspeech3_facodec)]
+- **SemantiCodec**: An Ultra Low Bitrate Semantic Audio Codec for General Sound [[arXiv](https://arxiv.org/abs/2405.00233)] [[code](https://github.com/haoheliu/SemantiCodec-inference)]
 ### 2023
 
 
@@ -41,6 +42,8 @@ This repository  collect papers related to speech tokenizer.
 -  **AcademiCodec**: An Open Source Audio Codec Model for Academic Research [[arXiv](https://arxiv.org/pdf/2305.02765.pdf)] [[code](https://github.com/yangdongchao/AcademiCodec)]
 -  **TiCodec**: Fewer-token Neural Speech Codec with Time-invariant Codes [[ICASSP](https://arxiv.org/abs/2310.00014)] [[code](https://github.com/y-ren16/TiCodec)]
 - **AudioDec**: An Open-source Streaming High-fidelity Neural Audio Codec [[ICASSP](https://ieeexplore.ieee.org/document/10096509)] [[code](https://github.com/facebookresearch/AudioDec)]
+- **RepCodec**: A Speech Representation Codec for Speech Tokenization [[arXiv](https://arxiv.org/abs/2309.00169)] [[code](https://github.com/mct10/RepCodec)]
+
 
 ### 2022
 -  **Encodec**: High Fidelity Neural Audio Compression [[arXiv](https://arxiv.org/abs/2210.13438)] [[code](https://github.com/facebookresearch/encodec)]
