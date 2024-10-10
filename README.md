@@ -2,12 +2,12 @@
 This repository  collects papers related to Speech Tokenizer.
 
 ## Contents
-+ [[Search by Chronological Order](https://github.com/WWWWxp/Speech-Tokenizer-Papers)]
-+ [[Search by Method Category](https://github.com/WWWWxp/Speech-Tokenizer-Papers/tree/Type-classification)]
++ [[Search by Chronological Order](#jump1)
++ [[Search by Method Category](#jump2)
 
 
-## Papers
-
+# Papers
+## <span id="jump1">Search by Chronological Order</span>
 ### 2024
 
 -  **Moshi**: a speech-text foundation model for real-time dialogue [[arXiv](https://arxiv.org/pdf/2410.00037)] [[code](https://github.com/kyutai-labs/moshi)]
@@ -60,3 +60,45 @@ This repository  collects papers related to Speech Tokenizer.
 ### 2019
 - Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning [[arXiv](https://arxiv.org/abs/1910.12729)][[demo](https://ttaoretw.github.io/SeqRQ-AE/demo.html)]
 - **vq-wav2vec**: Self-Supervised Learning of Discrete Speech Representations  [[arXiv](https://arxiv.org/abs/1910.05453)]
+
+
+## <span id="jump2">Search by Method Category</span>
+### Speed/Compression
+
+-  **BigCodec**: Pushing the Limits of Low-Bitrate  Neural Speech Codec [[arXiv](https://arxiv.org/pdf/2409.05377)] [[code](https://github.com/Aria-K-Alethia/BigCodec)]
+-  Low Bitrate High-Quality RVQGAN-based Discrete Speech Tokenizer [[Interspeech](https://www.isca-archive.org/interspeech_2024/shechtman24_interspeech.html)]
+-  Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference [[arXiv](https://arxiv.org/pdf/2409.12117)]
+-  **WavTokenizer**: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling [[arXiv](https://arxiv.org/abs/2408.16532)] [[code](https://github.com/jishengpeng/WavTokenizer)]
+-  **Language-Codec**: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models [[arXiv](https://arxiv.org/pdf/2402.12208)] [[code](https://github.com/jishengpeng/languagecodec)]
+-  **Single-Codec**: Single-Codebook Speech Codec towards High-Performance Speech Generation [[arXiv](https://arxiv.org/pdf/2406.07422)] [[demo](https://kkksuper.github.io/Single-Codec/)]
+-  **RepCodec**: A Speech Representation Codec for Speech Tokenization [[arXiv](https://arxiv.org/abs/2309.00169)] [[code](https://github.com/mct10/RepCodec)]
+-  **HiFi-Codec**: Group-residual Vector quantization for High Fidelity Audio Codec [[arXiv](https://arxiv.org/abs/2305.02765)] [[code](https://github.com/yangdongchao/AcademiCodec)]
+
+
+
+### Quality 
+-  **APCodec**: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding [[TASLP](https://arxiv.org/abs/2402.10533)] [[code](https://github.com/YangAi520/APCodec)]
+-  **PromptCodec**: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders [[arXiv](https://arxiv.org/pdf/2404.02702)]
+-  **DAC**: High-Fidelity Audio Compression with Improved RVQGAN  [[NIPS](https://arxiv.org/pdf/2306.06546)] [[code](https://github.com/descriptinc/descript-audio-codec)]
+-  **Vocos**: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis [[arXiv](https://arxiv.org/pdf/2306.00814.pdf)] [[code](https://github.com/gemelo-ai/vocos)]
+-  **HILCodec**: High-Fidelity and Lightweight Neural Audio Codec [[arXiv](https://arxiv.org/pdf/2405.04752)] [[code](https://github.com/aask1357/hilcodec)]
+-  **Moshi**: a speech-text foundation model for real-time dialogue [[arXiv](https://arxiv.org/pdf/2410.00037)] [[code](https://github.com/kyutai-labs/moshi)]
+- **AudioDec**: An Open-source Streaming High-fidelity Neural Audio Codec [[ICASSP](https://ieeexplore.ieee.org/document/10096509)] [[code](https://github.com/facebookresearch/AudioDec)]
+-  **NDVQ**: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization [[arXiv](https://arxiv.org/pdf/2409.12717)]
+-  **vec2wav 2.0**: Advancing Voice Conversion via Discrete Token Vocoders [[arXiv](https://arxiv.org/pdf/2409.01995)] [[demo](https://cantabile-kwok.github.io/vec2wav2/)] [[code](https://github.com/cantabile-kwok/vec2wav2.0)]
+
+### Integrating Semantic Information
+-  **SpeechTokenizer**: Unified Speech Tokenizer for Speech Large Language Models  [[arXiv](https://arxiv.org/abs/2308.16692)] [[code](https://github.com/ZhangXInFD/SpeechTokenizer/)]
+-  **X-Codec**: Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model [[arXiv](https://arxiv.org/pdf/2408.17175)] [[code](https://github.com/zhenye234/xcodec)]
+- **RepCodec**: A Speech Representation Codec for Speech Tokenization [[arXiv](https://arxiv.org/abs/2309.00169)] [[code](https://github.com/mct10/RepCodec)]
+-  **AcademiCodec**: An Open Source Audio Codec Model for Academic Research [[arXiv](https://arxiv.org/pdf/2305.02765.pdf)] [[code](https://github.com/yangdongchao/AcademiCodec)]
+- **SemantiCodec**: An Ultra Low Bitrate Semantic Audio Codec for General Sound [[arXiv](https://arxiv.org/abs/2405.00233)] [[code](https://github.com/haoheliu/SemantiCodec-inference)]
+-  **FunCodec**: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec [[arXiv](https://arxiv.org/pdf/2309.07405)] [[code](https://github.com/modelscope/FunCodec)]
+-  **SoCodec**: A Semantic-Ordered Multi-Stream Speech Codec for Efficient Language Model Based Text-to-Speech Synthesis [[arXiv](https://arxiv.org/pdf/2409.00933)] [[code](https://github.com/hhguo/SoCodec)]
+
+
+### Decoupling 
+-  **FACodec**: Speech Codec with Attribute Factorization used for NaturalSpeech 3 [[arXiv](https://arxiv.org/pdf/2403.03100)] [[code](https://github.com/lifeiteng/naturalspeech3_facodec)]
+-  **SpeechTokenizer**: Unified Speech Tokenizer for Speech Large Language Models  [[arXiv](https://arxiv.org/abs/2308.16692)] [[code](https://github.com/ZhangXInFD/SpeechTokenizer/)]
+-  **TiCodec**: Fewer-token Neural Speech Codec with Time-invariant Codes [[ICASSP](https://arxiv.org/abs/2310.00014)] [[code](https://github.com/y-ren16/TiCodec)]
+
