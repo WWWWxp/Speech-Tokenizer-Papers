@@ -24,6 +24,7 @@ This repository  collect papers related to speech tokenizer.
 - [[arXiv](https://arxiv.org/pdf/2402.12208)] [[code](https://github.com/jishengpeng/languagecodec)] **Language-Codec**: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models
 - [[arXiv](https://arxiv.org/pdf/2406.07422)] [[demo](https://kkksuper.github.io/Single-Codec/)] **Single-Codec**: Single-Codebook Speech Codec towards High-Performance Speech Generation
 - [[ICASSP](https://ieeexplore.ieee.org/abstract/document/10446067)] Personalized neural speech codec
+- [[arXiv](https://arxiv.org/pdf/2404.02702)] **PromptCodec**: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders
 ### 2023
 
 
