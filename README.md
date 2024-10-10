@@ -37,7 +37,7 @@ This repository  collect papers related to speech tokenizer.
 -  **Vocos**: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis [[arXiv](https://arxiv.org/pdf/2306.00814.pdf)] [[code](https://github.com/gemelo-ai/vocos)]
 -  **AcademiCodec**: An Open Source Audio Codec Model for Academic Research [[arXiv](https://arxiv.org/pdf/2305.02765.pdf)] [[code](https://github.com/yangdongchao/AcademiCodec)]
 -  **TiCodec**: Fewer-token Neural Speech Codec with Time-invariant Codes [[ICASSP](https://arxiv.org/abs/2310.00014)] [[code](https://github.com/y-ren16/TiCodec)]
-
+- **AudioDec**: An Open-source Streaming High-fidelity Neural Audio Codec [[ICASSP](https://ieeexplore.ieee.org/document/10096509)] [[code](https://github.com/facebookresearch/AudioDec)]
 
 ### 2022
 -  **Encodec**: High Fidelity Neural Audio Compression [[arXiv](https://arxiv.org/abs/2210.13438)] [[code](https://github.com/facebookresearch/encodec)]
