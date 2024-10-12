@@ -72,7 +72,7 @@ This repository  collects papers related to Speech Tokenizer.
 -  **Single-Codec**: Single-Codebook Speech Codec towards High-Performance Speech Generation [[arXiv](https://arxiv.org/pdf/2406.07422)] [[demo](https://kkksuper.github.io/Single-Codec/)]
 -  **RepCodec**: A Speech Representation Codec for Speech Tokenization [[arXiv](https://arxiv.org/abs/2309.00169)] [[code](https://github.com/mct10/RepCodec)]
 -  **HiFi-Codec**: Group-residual Vector quantization for High Fidelity Audio Codec [[arXiv](https://arxiv.org/abs/2305.02765)] [[code](https://github.com/yangdongchao/AcademiCodec)]
-
+-  **AcademiCodec**: An Open Source Audio Codec Model for Academic Research [[arXiv](https://arxiv.org/pdf/2305.02765.pdf)] [[code](https://github.com/yangdongchao/AcademiCodec)]
 
 
 ### Quality 
@@ -90,7 +90,6 @@ This repository  collects papers related to Speech Tokenizer.
 -  **SpeechTokenizer**: Unified Speech Tokenizer for Speech Large Language Models  [[arXiv](https://arxiv.org/abs/2308.16692)] [[code](https://github.com/ZhangXInFD/SpeechTokenizer/)]
 -  **X-Codec**: Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model [[arXiv](https://arxiv.org/pdf/2408.17175)] [[code](https://github.com/zhenye234/xcodec)]
 - **RepCodec**: A Speech Representation Codec for Speech Tokenization [[arXiv](https://arxiv.org/abs/2309.00169)] [[code](https://github.com/mct10/RepCodec)]
--  **AcademiCodec**: An Open Source Audio Codec Model for Academic Research [[arXiv](https://arxiv.org/pdf/2305.02765.pdf)] [[code](https://github.com/yangdongchao/AcademiCodec)]
 - **SemantiCodec**: An Ultra Low Bitrate Semantic Audio Codec for General Sound [[arXiv](https://arxiv.org/abs/2405.00233)] [[code](https://github.com/haoheliu/SemantiCodec-inference)]
 -  **FunCodec**: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec [[arXiv](https://arxiv.org/pdf/2309.07405)] [[code](https://github.com/modelscope/FunCodec)]
 -  **SoCodec**: A Semantic-Ordered Multi-Stream Speech Codec for Efficient Language Model Based Text-to-Speech Synthesis [[arXiv](https://arxiv.org/pdf/2409.00933)] [[code](https://github.com/hhguo/SoCodec)]
