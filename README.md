@@ -34,6 +34,7 @@ This repository  collects papers related to Speech Tokenizer.
 -  **APCodec**: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding [[TASLP](https://arxiv.org/abs/2402.10533)] [[code](https://github.com/YangAi520/APCodec)]
 -  **FACodec**: Speech Codec with Attribute Factorization used for NaturalSpeech 3 [[arXiv](https://arxiv.org/pdf/2403.03100)] [[code](https://github.com/lifeiteng/naturalspeech3_facodec)]
 - **SemantiCodec**: An Ultra Low Bitrate Semantic Audio Codec for General Sound [[arXiv](https://arxiv.org/abs/2405.00233)] [[code](https://github.com/haoheliu/SemantiCodec-inference)]
+- **DM-Codec**: Distilling Multimodal Representations for Speech Tokenization [[openreview](https://openreview.net/forum?id=UFwefiypla)] [[code](https://github.com/mubtasimahasan/DM-Codec)]
 
 ### 2023
 -  **SpeechTokenizer**: Unified Speech Tokenizer for Speech Large Language Models  [[arXiv](https://arxiv.org/abs/2308.16692)] [[code](https://github.com/ZhangXInFD/SpeechTokenizer/)]
@@ -99,4 +100,5 @@ This repository  collects papers related to Speech Tokenizer.
 -  **FACodec**: Speech Codec with Attribute Factorization used for NaturalSpeech 3 [[arXiv](https://arxiv.org/pdf/2403.03100)] [[code](https://github.com/lifeiteng/naturalspeech3_facodec)]
 -  **SpeechTokenizer**: Unified Speech Tokenizer for Speech Large Language Models  [[arXiv](https://arxiv.org/abs/2308.16692)] [[code](https://github.com/ZhangXInFD/SpeechTokenizer/)]
 -  **TiCodec**: Fewer-token Neural Speech Codec with Time-invariant Codes [[ICASSP](https://arxiv.org/abs/2310.00014)] [[code](https://github.com/y-ren16/TiCodec)]
+-  **DM-Codec**: Distilling Multimodal Representations for Speech Tokenization [[openreview](https://openreview.net/forum?id=UFwefiypla)] [[code](https://github.com/mubtasimahasan/DM-Codec)]
 
